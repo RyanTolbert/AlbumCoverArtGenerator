@@ -1,0 +1,31 @@
+
+CSCE 5290: Natural Language Processing
+Project Proposal
+
+
+Project Proposal
+
+This project will create an album cover art from a user-entered prompt. The user can customize this cover using basic image adjustments, like color saturation, tint, a text editor, etc.
+
+Project Proposal Description:
+
+1.	Project Title and Team Members
+Title: Album Cover Generator
+Team: Ryan Tolbert
+
+2.	Goals and Objectives:
+•	Motivation: I am a graphic designer, photographer, and music enthusiast and would like to see if I can use NLP to create an album cover from a prompt. I think this tool could be used to inspire or generate a piece of concept art.
+
+
+•	Significance: This album cover generator can be used as a tool for inspiration and idea creation. Having AI create an image can provide a new view of the world. These images may not look particularly realistic, but they can provide the necessary proof-of-concepts for certain ideas. Using this people can brainstorm ideas for album covers and customize the cover art to their liking. There has been text to image generators before, but there are no art generators. The main idea for this is to create cover arts for music albums, but you could use it for any sort of art creation. I aim to create a useful tool for artists and designers to use to create art.
+
+
+•	Objectives: The user will enter a prompt of what they want the cover art to look like. A prompt can be something like “A dog wearing a red hat”. Using NLP, my program will determine what the user wants and use the OpenAI model to generate an image based on the prompt. The user will also be given options on what they would like to add or change with the cover art. So, if the user wants the image to be black and white, they can do that. Perhaps the user wants to add the album title in text on the cover art, they should be able to do that. This tool should provide some basic tools to generate and customize a cover art that they like.
+
+•	Features: The main feature is that you can input any prompt and get an image output. There should be a feature to add text and select the font, size of the text, and position of the text on the cover art. There should also be an option to make the cover art black and white or add saturation to make the colors brighter. I plan to also add more basic image options to allow for the most customization to the user. I also may provide an option for the user to use their voice to enter a prompt. This would enable users to enter a prompt verbally or via text.
+
+3.	References
+This is the model I will be using to generate images from the text: https://github.com/openai/DALL-E 
+
+GitHub link: https://github.com/RyanTolbert/ArtGenerator
+
