@@ -23,7 +23,9 @@ jax.local_device_count()
 !pip install -q dalle-mini
 !pip install -q git+https://github.com/patil-suraj/vqgan-jax.git
 
-from dalle_mini import DalleBart, DalleBartProcessor
+!pip install transformers
+
+from dalle_mini import DalleBart, DalleBartProcessor #change "from transformers.generation_flax_utils import FlaxSampleOutput" to "from transformers.generation.flax_utils import FlaxSampleOutput" in dalle_mini
 from vqgan_jax.modeling_flax_vqgan import VQModel
 from transformers import CLIPProcessor, FlaxCLIPModel
 from huggingface_hub import hf_hub_url, cached_download, hf_hub_download
@@ -100,6 +102,7 @@ seed = random.randint(0, 2**32 - 1)
 key = jax.random.PRNGKey(seed)
 
 # number of predictions per prompt
+#this is for testing, the user now inputs their choice of predictions
 #n_predictions = 4
 
 #for customizating generation parameters (https://huggingface.co/blog/how-to-generate)
