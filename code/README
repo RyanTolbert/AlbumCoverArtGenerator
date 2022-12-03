@@ -1,1 +1,4 @@
+The .py and .pynb are the same. The .pynb is the notebook version of the .py
+
+For .pynb, load in Google Colab and run all cells. If you are having issues, try solution below:
 In dalle_mini, change "from transformers.generation_flax_utils import FlaxSampleOutput" to "from transformers.generation.flax_utils import FlaxSampleOutput"
