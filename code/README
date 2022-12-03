@@ -1,1 +1,1 @@
-
+In dalle_mini, change "from transformers.generation_flax_utils import FlaxSampleOutput" to "from transformers.generation.flax_utils import FlaxSampleOutput"
