@@ -1,3 +1,7 @@
 # WATCH HOW IT WORKS:
 
-!(https://github.com/RyanTolbert/ArtGenerator/assets/99290261/5395cd74-2f31-4c05-bb86-602f963a1ba7))](https://drive.google.com/file/d/1DZFqRhjr7G8CuP650DuZTnNlGOv0FEW6/view?usp=sharing)
+![Screenshot 2023-12-30 034632](https://github.com/RyanTolbert/ArtGenerator/assets/99290261/2880036f-a42e-44d1-ab98-a441e9401ce2)(https://drive.google.com/file/d/1DZFqRhjr7G8CuP650DuZTnNlGOv0FEW6/view?usp=sharing)
+
+[![Watch the video](![Screenshot 2023-12-30 034632](https://github.com/RyanTolbert/ArtGenerator/assets/99290261/2880036f-a42e-44d1-ab98-a441e9401ce2))](https://drive.google.com/file/d/1DZFqRhjr7G8CuP650DuZTnNlGOv0FEW6/view?usp=sharing)
+
+!(https://drive.google.com/file/d/1DZFqRhjr7G8CuP650DuZTnNlGOv0FEW6/view?usp=sharing)
